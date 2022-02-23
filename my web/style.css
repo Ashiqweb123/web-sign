@@ -1,0 +1,38 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+.mission
+{
+    color:orange;
+}
+.banner-container
+{
+    display: flex;
+    padding: 20px;
+}
+.text-container
+{
+    width: 50%;
+    
+}
+.image-container
+{
+    width: 50%;
+}
+.image-container img
+{
+    width:80%;
+    height: 500px;
+}
+
+.link-Button
+{
+    text-decoration: none;
+    padding: 10px 30px;
+    border: 1px solid white;
+    background-image: linear-gradient(red,orange);
+    border-radius: 5px;
+    color: white;
+    
+}
